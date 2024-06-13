@@ -1,3 +1,3 @@
 library(genfrn)
-outy<- rtrfn(100,1,4,5,8)
+outy<- rtrfn(100,1,2,4,6)
 plot(outy)
